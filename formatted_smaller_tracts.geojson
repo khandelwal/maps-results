@@ -1,11 +1,4 @@
 {
-    "crs": {
-        "properties": {
-            "href": "http://spatialreference.org/ref/epsg/4326/", 
-            "type": "proj4"
-        }, 
-        "type": "link"
-    }, 
     "features": [
         {
             "geometry": {
